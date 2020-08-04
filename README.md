@@ -1,3 +1,5 @@
+<p align="center"><img width="500px" align="center" src="https://github.com/ziguirifow/proffy-nlw/blob/master/src/assets/images/landing.svg"></img></p>
+
 Projeto de uma plataforma de ensino feito em ReactJS utilizando Typescript.
 
 ### Requirements
